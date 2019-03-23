@@ -55,5 +55,9 @@ section {
   height: 100%;
 }
 
+div {
+  display: block; 
+}
+
 
 
