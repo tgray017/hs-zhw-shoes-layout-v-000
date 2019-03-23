@@ -35,7 +35,6 @@
 }
 
 [class*="col-"] {
-  display: block;
   margin-left: 2%;
 }
 
