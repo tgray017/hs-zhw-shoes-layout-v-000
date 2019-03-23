@@ -39,7 +39,11 @@
 }
 
 .first {
-  margin-left: 0%
+  margin-left: 0%;
+}
+
+.shadow {
+  min-height: 100%;
 }
 
 
