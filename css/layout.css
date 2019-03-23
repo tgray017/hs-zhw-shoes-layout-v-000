@@ -36,8 +36,6 @@
 
 [class*="col-"] {
   margin-left: 2%;
-    display: block;
-  height: 100%;
 }
 
 .first {
