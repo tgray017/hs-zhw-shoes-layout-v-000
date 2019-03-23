@@ -24,7 +24,9 @@
 
 /* Positioning Classes */
 
-
+.wrapper {
+  
+}
 
 .col-2 {
   float: left;
