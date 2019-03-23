@@ -25,6 +25,7 @@
 /* Positioning Classes */
 
 .col-2 {
+  display: block;
   float: left;
   width: 66%;
 }
